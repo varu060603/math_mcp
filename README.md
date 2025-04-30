@@ -1,6 +1,3 @@
-Sure! Here's a simple and direct `README.md` based on the steps you mentioned:
-
-```markdown
 # Math MCP Toolkit
 
 This repository contains a Math MCP Toolkit that is used by a LangChain agent powered by a Groq LLM.
